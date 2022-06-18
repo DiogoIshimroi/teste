@@ -1,1 +1,3 @@
 um arquivo qualquer da aula de git push
+
+alterando arquivo na aula de git pull
